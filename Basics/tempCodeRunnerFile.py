@@ -1,0 +1,2 @@
+
+print(lucky_numbers)
